@@ -10,7 +10,7 @@ function updateView() {
 
 function updateRideCount(data) {
     numberOfRides = data.count
-    $("h2#ridecount").html(numberOfRides)
+    $("h2#rideCount").html(numberOfRides)
 }
 //implementing a function - taking action - defining a recipe and giving it a name, you can invoke that recipe////#endregion
 
