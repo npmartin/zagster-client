@@ -2,5 +2,11 @@ body {
     font-family: "HelveticaNeue", "Arial", sans-serif;
   }
 
-h1, h2 {font-family: 'Open Sans Condensed', sans-serif;
+h1 {font-family: 'Open Sans Condensed', sans-serif;
+  }
+
+h2 {font-family: 'Open Sans Condensed', sans-serif;
+  }
+
+p {h1 {font-family: 'Open Sans Condensed', sans-serif;
   }
