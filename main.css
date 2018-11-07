@@ -1,2 +1,9 @@
+#logo {
+  float: left;
+  width: 20px;
+  height: auto;
+  margin-right: 5px; 
+}
+
 body {font-family: 'Open Sans Condensed', sans-serif;
 }
